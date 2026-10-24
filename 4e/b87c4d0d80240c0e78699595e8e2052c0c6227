@@ -1,0 +1,25 @@
+agents/ai-repo-judge/web/scripts/sync-data.mjs
+  s_1a9fb652a30ae9::t_3eb31e65d75eb8 19-20
+agents/ai-repo-judge/web/src/pages/Detail.tsx
+  s_1a9fb652a30ae9::t_3eb31e65d75eb8 217
+agents/ai-repo-judge/.gitignore
+  s_1a9fb652a30ae9::t_3eb31e65d75eb8 44
+agents/ai-repo-judge/README.md
+  s_1a9fb652a30ae9::t_3eb31e65d75eb8 140-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4eb87c4d0d80240c0e78699595e8e2052c0c6227",
+  "prompts": {},
+  "sessions": {
+    "s_1a9fb652a30ae9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4405a235-0580-4ee6-96cb-a68248b35667",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Nishanth Aluhonnu <naluhonn@cisco.com>"
+    }
+  }
+}
